@@ -1,17 +1,17 @@
 [![MasterHead](https://www.webhopers.com/wp-content/uploads/2022/02/website-design-company-in-yamuna-nagar-1200x480.jpg)](https://itsabhinav.tech)
 <h1 align="center">Hi 👋, I'm Abhinav Dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhi-nav&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhi-nav" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://itsabhinav.tech/](https://itsabhinav.tech/)
 
-- 💬 Ask me about **HTML,CSS ,Js,React Js**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **dubeyabhinav100@gmail.com**
 
